@@ -1,0 +1,17 @@
+Program 7 Algorithm - Mateusz Kruk
+
+1. Create an empty list to hold all the data.
+
+2. Read prog7_nums.txt file using the build_list() function and store the numbers in the list.
+
+3. Use print_list() function to display the original list. Title it "Unsorted Set".
+
+4. Call the sort_list() function to sort the list manually. Use the Selection Sort method.
+
+5. Use print_list() to display the sorted list. This time use the title "Sorted Set".
+
+6. Use the mean() function to calculate the mean of the numbers and store the result.
+
+7. Call the median() function to calculate the median of the numbers and store that result.
+
+8. Display the mean and median with the title "Set Statistics". Format to two decimal places. End the program.
