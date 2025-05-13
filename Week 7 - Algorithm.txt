@@ -1,4 +1,4 @@
-Algorithm For program 6 - Mateusz Kruk
+Algorithm For program 6 - Mateusz
 
 1. Start with an empty list.
 
