@@ -1,0 +1,18 @@
+Program 3 Algorithm - Mateusz
+
+Task: Loops & Decision Statements
+
+1. Explain the game instructions.
+
+2. Get the first names of both players.
+
+3. Determine which player goes first.
+
+4. Ask for the total number of starting chips.
+
+5. Repeat until one chip remains:
+   - Current player selects a valid number of chips.
+   - Subtract the selected chips from the pile.
+   - Switch to the other player.
+
+6. Announce the winner when the last chip is taken.
