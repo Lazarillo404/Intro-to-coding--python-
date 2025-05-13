@@ -1,0 +1,19 @@
+Program 2 Algorithm - Mateusz
+
+Task 1: Decisions and Output Formatting
+
+1. Ask for the a-coefficient
+
+2. Prompt for the b and c coefficients
+
+3. Calculate the vertex coordinates
+
+4. Determine if the parabola open upward or downward
+
+5. Calculate the discriminant
+
+6. Determine the number of real roots
+
+7. Compute the real roots (if applicable)
+
+8. Test program using alternative values and display the results
