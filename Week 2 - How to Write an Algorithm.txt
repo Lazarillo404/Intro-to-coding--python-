@@ -1,0 +1,43 @@
+Write an Algorithm
+
+Description: An algorithm is a set of instructions to complete a task. While we generally will speak about algorithms in terms of programming and the instructions we will write. However, algorithms can be used to write instruction for any kind of task.
+
+Create 2 algorithms for tasks you complete on a regular basis. Each algorithm must be at least 5 steps long with clear distinct steps. 
+
+
+Example: Task – Access lecture notes on Blackboard
+
+1) Go to blackboard.com
+2) Enter username in the textbox
+3) Enter password in the password textbox
+4) Press the enter key to login
+5) Click on the link for CIS 106 course
+6) Click on the link for learning modules
+7) Click on the link for week X
+8) Click on the link for lecture notes
+
+
+
+
+Task 1: Make a Peanut Butter and Jelly Sandwich
+
+1) Take two slices of bread and place them on a plate.
+2) Open the jar of peanut butter.
+3) Use a knife to spread peanut butter on one slice of bread.
+4) Open the jar of jelly.
+5) Use a knife to spread jelly on the other slice of bread.
+6) Place the two slices together with the peanut butter and jelly sides facing each other.
+7) Cut the sandwich in half if desired.
+8) Enjoy your peanut butter and jelly sandwich.
+
+
+Task 2: Do Laundry
+
+1) Gather all dirty laundry and separate it into piles by color and fabric type.
+2) Open the washing machine and place one pile of laundry inside.
+3) Add the appropriate amount of detergent and any fabric softener if desired.
+4) Select the appropriate wash cycle and water temperature based on the fabric type.
+5) Press the start button to begin the wash cycle.
+6) Once the cycle is complete, transfer the wet clothes to the dryer or hang them to air dry.
+7) Select the appropriate drying cycle and start the dryer if using one.
+8) Once the clothes are dry, remove them, fold or hang them, and put them away.
