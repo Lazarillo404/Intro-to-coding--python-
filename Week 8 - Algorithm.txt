@@ -1,4 +1,4 @@
-Program 7 Algorithm - Mateusz Kruk
+Program 7 Algorithm - Mateusz
 
 1. Create an empty list to hold all the data.
 
