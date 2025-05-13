@@ -1,0 +1,19 @@
+Program 4 Algorithm - Mateusz
+
+1. Add an import statement for random
+
+2. Setup the Random Generator to random.seed(1)
+
+2. Generate a random number between 2 and 20 to determine the group size.
+
+4. Use a for loop to generate numbers between 0 and 99
+
+5. Print the generated numbers.
+
+6. Generate a new random number between 2 and 20 for the second group.
+
+7. Use a while loop to generate numbers between 0 and 99
+
+7. Display Results for the Second Group
+
+8. End Program
